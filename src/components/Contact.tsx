@@ -26,7 +26,7 @@ export default function Contact() {
                 rel="noopener noreferrer"
                 className="inline-flex items-center justify-center gap-2 font-pixel text-xs text-sec-yellow hover:text-white transition-colors"
               >
-                <span>📱</span> {contact.phone}
+               {contact.phone}
               </a>
             </div>
           ))}
