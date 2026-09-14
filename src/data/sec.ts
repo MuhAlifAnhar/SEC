@@ -85,8 +85,10 @@ export const EVENT_DATA = {
     }
   ],
   socials: {
-    instagramEvent: "stelkesportschampionship",
+    instagramEvent: "stelkesportchampionship",
     instagramOrg: "stelk.esports",
-    tiktok: "stelk.esports"
+    tiktok: "stelk.esport",
+    youtube: "stelkesports",
+    email: "stelkesport@gmail.com"
   }
 };
