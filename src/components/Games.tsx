@@ -4,9 +4,9 @@ import Image from "next/image";
 
 export default function Games() {
   const games = [
-    { title: "MOBILE LEGENDS", category: "SMP / SMA", color: "text-sec-yellow", bg: "bg-sec-yellow/10", border: "pixel-border-yellow", logo: "/logo_mlbb.png" },
-    { title: "FREE FIRE", category: "SMP / SMA", color: "text-sec-cyan", bg: "bg-sec-cyan/10", border: "pixel-border", logo: "/logo_ff.png" },
-    { title: "VALORANT", category: "SMA / SMK", color: "text-white", bg: "bg-white/10", border: "border-4 border-white", logo: "/logo_valo.png" },
+    { title: "MOBILE LEGENDS", category: "SMP / SMA Sederajat", color: "text-sec-yellow", bg: "bg-sec-yellow/10", border: "pixel-border-yellow", logo: "/logo_mlbb.png" },
+    { title: "FREE FIRE", category: "SMP / SMA Sederajat", color: "text-sec-cyan", bg: "bg-sec-cyan/10", border: "pixel-border", logo: "/logo_ff.png" },
+    { title: "VALORANT", category: "SMA / SMK Sederajat", color: "text-white", bg: "bg-white/10", border: "border-4 border-white", logo: "/logo_valo.png" },
   ];
 
   return (
